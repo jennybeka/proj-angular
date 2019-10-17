@@ -1,0 +1,484 @@
+{
+  "videogames": [
+    {
+      "id": 1,
+      "nome": "Playstation 1",
+      "curiosidades": " Lançado em Dezembro de 1994, vendeu mais de 100 milhões de unidades. Ocupa a posição do segundo console mais vendido no mundo.",
+      "jogos": [
+        {
+          "categoria": 1,
+          "nomeJogo": "LEGACY OF KAIN: SOUL REAVER "
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "CRASH BANDICOOT 1"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "SPIDER-MAN"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "BOMBERMAN WORLD"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "FINAL FANTASY 7"
+        },
+        {
+          "categoria": 2,
+          "nomeJogo": "TEKKEN 3"
+        },
+        {
+          "categoria": 2,
+          "nomeJogo": "STREET FIGHTER ALPHA 3"
+        },
+        {
+          "categoria": 2,
+          "nomeJogo": "FINAL FANTASY VIII"
+        },
+        {
+          "categoria": 3,
+          "nomeJogo": "GRAN TURISMO 2"
+        },
+        {
+          "categoria": 3,
+          "nomeJogo": "DRIVER "
+        },
+        {
+          "categoria": 3,
+          "nomeJogo": "NEED FOR SPEED III: HOT PURSUIT"
+        },
+        {
+          "categoria": 4,
+          "nomeJogo": "RESIDENT EVIL 2 "
+        },
+        {
+          "categoria": 4,
+          "nomeJogo": "SILENT HILL"
+        },
+        {
+          "categoria": 5,
+          "nomeJogo": "CASTLEVANIA: SYMPHONY OF THE NIGHT"
+        },
+        {
+          "categoria": 5,
+          "nomeJogo": "TOMB RAIDER II"
+        },
+        {
+          "categoria": 5,
+          "nomeJogo": "DIABLO"
+        }
+      ],
+      "imagens": [
+        {
+          "url": "/assets/consoles/ps1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Playstation 2",
+      "curiosidades": "Dos anos 2000. O seu inicio foi lento mas, o Play2 conquistou o público e tornou-se o console mais vendido da história dos videogames.",
+      "jogos": [
+        {
+          "categoria": 1,
+          "nomeJogo": "2012 FIM DO MUNDO"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "ALLADIN"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "ANIMANIACS THE GREAT EDGAR HUNT"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "BOMBERMAN WORLD"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "BOMBERMAN BATTLES"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "BOMBERMAN COLLECTION"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "BOMBERMAN JETTERS"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "FINAL FANTASY"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "GUITAR HERO 1"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "PACMAN WORLD 2"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "TOY STORY"
+        },
+        {
+          "categoria": 2,
+          "nomeJogo": "MORTAL KOMBAT"
+        },
+        {
+          "categoria": 2,
+          "nomeJogo": "STREET FIGHTER 2 VICTORY"
+        },
+        {
+          "categoria": 2,
+          "nomeJogo": "THE KING OF FIGHTERS 2000"
+        },
+        {
+          "categoria": 2,
+          "nomeJogo": "FATAL FURY BATTLE ARCHIVES"
+        },
+        {
+          "categoria": 3,
+          "nomeJogo": "BATTLE GEAR 3"
+        },
+        {
+          "categoria": 3,
+          "nomeJogo": "CRASH 2 NITRO KART"
+        },
+        {
+          "categoria": 3,
+          "nomeJogo": "CRAZY FROG RACER 1"
+        },
+        {
+          "categoria": 3,
+          "nomeJogo": "ALONE IN THE DARK 5"
+        },
+        {
+          "categoria": 4,
+          "nomeJogo": "RESIDENT EVIL 4"
+        },
+        {
+          "categoria": 4,
+          "nomeJogo": "FATAL FRAME 1"
+        },
+        {
+          "categoria": 5,
+          "nomeJogo": "HITMAN"
+        },
+        {
+          "categoria": 5,
+          "nomeJogo": "GTA MODIFICADO SAN ANDREAS"
+        },
+        {
+          "categoria": 5,
+          "nomeJogo": "GOD OF WAR 1 BR"
+        },
+        {
+          "categoria": 5,
+          "nomeJogo": "007 JAMES BOND  EVERTHING OR NOTHING"
+        }
+      ],
+      "imagens": [
+        {
+          "url": "/assets/consoles/play2.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Playstation 4",
+      "curiosidades": " Moderno e com os gráficos dos jogos mais bem elaborados, percebemos que a nova geração já está aqui e é muito melhor do que imaginávamos.",
+      "jogos": [
+        {
+          "categoria": 1,
+          "nomeJogo": "UNCHARTED 4"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "MOSS"
+        },
+        {
+          "categoria": 2,
+          "nomeJogo": "STREET FIGHTER V"
+        },
+        {
+          "categoria": 2,
+          "nomeJogo": "DRAGON BALL FIGHTERZ"
+        },
+        {
+          "categoria": 3,
+          "nomeJogo": "CRASH TEAM RACING NITRO-FUELED"
+        },
+        {
+          "categoria": 4,
+          "nomeJogo": "RESIDENT EVIL 2 REMAKE"
+        },
+        {
+          "categoria": 4,
+          "nomeJogo": "METRO EXODUS"
+        },
+        {
+          "categoria": 4,
+          "nomeJogo": "DARK SOULS REMASTERED"
+        },
+        {
+          "categoria": 4,
+          "nomeJogo": "RESIDENT EVIL 7"
+        },
+        {
+          "categoria": 5,
+          "nomeJogo": "GOD OF WAR"
+        },
+        {
+          "categoria": 5,
+          "nomeJogo": "RED DEAD REDEMPTION 2"
+        },
+        {
+          "categoria": 5,
+          "nomeJogo": "BATTLEFIELD V "
+        },
+        {
+          "categoria": 5,
+          "nomeJogo": "THE LAST OF US"
+        },
+        {
+          "categoria": 5,
+          "nomeJogo": "DETROIT: BECOME HUMAN"
+        }
+      ],
+      "imagens": [
+        {
+          "url": "/assets/consoles/playstation4.png"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Mega Drive",
+      "curiosidades": " Possuem várias versões, e cada jogador tem a sua preferência. Era concorrente direto do Super Nintendo. Fez grande sucesso na década de 90 com o lançamento da série Sonic the Hedgehog, uma aventura focada na velocidade!!!",
+      "jogos": [
+        {
+          "categoria": 1,
+          "nomeJogo": "SONIC THE HEDGEHOG 2"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "SONIC 2"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "TOY STORY"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "ALADDIN"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "GOLDEN AXE"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "WORLD OF ILLUSION"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "EARTHWORM JIM"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "TOE JAM & EARL"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "ALEX KIDD IN THE ENCHANTED CASTLE"
+        },
+        {
+          "categoria": 2,
+          "nomeJogo": "STREET FIGHTER II - SPECIAL CHAMPION EDITION"
+        },
+        {
+          "categoria": 2,
+          "nomeJogo": "MORTAL KOMBAT"
+        },
+        {
+          "categoria": 2,
+          "nomeJogo": "ETERNAL CHAMPIONS"
+        },
+        {
+          "categoria": 3,
+          "nomeJogo": "TOP GEAR"
+        },
+        {
+          "categoria": 3,
+          "nomeJogo": "VIRTUA RACING"
+        },
+        {
+          "categoria": 3,
+          "nomeJogo": "OUT RUN"
+        },
+        {
+          "categoria": 3,
+          "nomeJogo": "ROAD RASH"
+        },
+        {
+          "categoria": 3,
+          "nomeJogo": "FATAL FURY"
+        },
+        {
+          "categoria": 4,
+          "nomeJogo": "SUPER CASTLEVANIA IV"
+        },
+        {
+          "categoria": 5,
+          "nomeJogo": "STREETS OF RAGE 1"
+        },
+        {
+          "categoria": 5,
+          "nomeJogo": "STREETS OF RAGE 2"
+        },
+        {
+          "categoria": 5,
+          "nomeJogo": "STREETS OF RAGE 3"
+        },
+        {
+          "categoria": 5,
+          "nomeJogo": "SHINOBI III"
+        }
+      ],
+      "imagens": [
+        {
+          "url": "/assets/consoles/megadrive.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "Nintendo 64",
+      "curiosidades": " O queridinho nintendo 64, possui uma grande lista de jogos aclamados pela crítica e com um alto número de vendas.Seu lançamento foi em 1996. Foi o ultimo grande console a utilizar cartucho até o Nintendo Switch, lançado em 2017.",
+      "jogos": [
+        {
+          "categoria": 1,
+          "nomeJogo": "DONKEY KONG 64"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "MARIO PARTY"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "ZELDA: OCARINA OF TIME"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "TZELDA: MAJORA'S MASK"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "SUPER MARIO 64"
+        },
+        {
+          "categoria": 2,
+          "nomeJogo": "STAR FOX"
+        },
+        {
+          "categoria": 2,
+          "nomeJogo": "BOMBERMAN 64"
+        },
+        {
+          "categoria": 3,
+          "nomeJogo": "POKÉMON STADIUM"
+        },
+        {
+          "categoria": 4,
+          "nomeJogo": "MARIO KART"
+        },
+        {
+          "categoria": 4,
+          "nomeJogo": "F-ZERO X "
+        },
+        {
+          "categoria": 4,
+          "nomeJogo": "DIDDY KONG RACING"
+        },
+        {
+          "categoria": 5,
+          "nomeJogo": "RESIDENT EVIL 2"
+        }
+      ],
+      "imagens": [
+        {
+          "url": "/assets/consoles/nintendo64.png"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nome": "Nintendo Switch",
+      "curiosidades": "Lançado em 2017. Trata-se de um console híbrido semelhante a um tablet, que pode ser um console de mesa. Tem jogos planejados explusivamentes para ele, tais como o Mario Kart 8 e The Legend of Zelda: Breath of the Wild.",
+      "jogos": [
+        {
+          "categoria": 1,
+          "nomeJogo": "SUPER MARIO"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "THE LEGEND OF ZELDA: BREATH OF THE WILD"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "SUPER SMASH BROS. ULTIMATE"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "MARIO + RABBIDS KINGDON BATTLE"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "OWLBOY"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "OVERCOOKED"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "MARIO TENNIS ACES"
+        },
+        {
+          "categoria": 1,
+          "nomeJogo": "MAX"
+        },
+        {
+          "categoria": 2,
+          "nomeJogo": "MORTAL KOMBAT 11"
+        },
+        {
+          "categoria": 3,
+          "nomeJogo": "MARIO KART"
+        },
+        {
+          "categoria": 4,
+          "nomeJogo": "LAYERS OF FEAR"
+        },
+        {
+          "categoria": 4,
+          "nomeJogo": "DAWN OF SURVIVORS"
+        },
+        {
+          "categoria": 5,
+          "nomeJogo": "DIABLO III: INTERNAL COLLECTION"
+        }
+      ],
+      "imagens": [
+        {
+          "url": "/assets/consoles/nintendoSwitch1.png"
+        }
+      ]
+    }
+  ]
+}

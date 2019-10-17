@@ -1,0 +1,70 @@
+<div class="consoles">
+  
+    <div class="secao">
+      <h3 class="text-center">Todos os consoles até o momento!</h3>
+      <h5 class="text-center">O desejo é adquirir o máximo possivel. hahaha!!</h5>
+    </div>
+  
+    <hr />
+  
+    <div class="row" style="margin-bottom: 50px">
+      <div class="col-md-4" *ngFor="let videogame of videogames">
+        <div class="img">
+          <img class="card-img-top" [src]="videogame.imagens[0].url"  class="rounded mx-auto d-block">
+          <div class="card-block">
+            <h4 class="card-title">{{ videogame.nome }}</h4>
+            <p class="card-text">{{ videogame.curiosidades }}</p>
+            <p class="categoria"></p>
+            <div class="row button">
+                <a [routerLink]="['/jogos', videogame.id]" class="btn btn-secondary">Ver jogos</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    <hr />
+    
+  </div>
+
+  
+  
+
+  <!-- <select class="mdb-select dropdown btn btn-secondary" id="inputGroupSelect01" >
+      <option selected>Games...</option>
+      <option value="1" *ngFor="let game of games">{{game}}</option>
+  </select> -->
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

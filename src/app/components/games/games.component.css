@@ -1,0 +1,22 @@
+.container {
+ width: 100%;
+ padding-top: 150px;
+ margin-bottom: 50px;
+}
+.my-custom-scrollbar {
+  justify-content: center;
+  overflow: auto;
+
+  }
+.table-wrapper-scroll-y {
+  display: block;
+}
+
+table {
+  align-content: center;
+  
+}
+
+h1 {
+  font-family: 'Mansalva', cursive;
+}

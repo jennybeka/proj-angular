@@ -1,0 +1,33 @@
+<div class="inicio">
+  <div *ngIf="consoleClicado !== undefined">
+    <!--if para corrigir erros de promise e snapshot de parametros-->
+    <!-- Inicio DIV ENCAPs.-->
+    <div class="secao">
+      <h3 class="text-center">{{ consoleClicado.nome }}</h3>
+      <h5 class="text-center">Meus jogos</h5>
+    </div>
+
+    <hr />
+
+    <div>
+      <div class="row">
+        <div class="col-md-4">
+          <img [src]="consoleClicado.imagens[0].url" class="img-rounded mx-auto d-block" />
+        </div>
+
+        <div class="col-md-6">
+
+          <div class="jogos">
+            <h3>Jogos;</h3>
+            <div class="list-group-flush w-100" *ngFor="let lista of consoleClicado.jogos">
+              <a href="javascript:void(0)" class="list-group-item">{{ lista.nomeJogo }}</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <hr />
+    </div>
+
+    <br />
+  </div><!-- FIM DIV ENCAPs.-->
+</div>

@@ -1,0 +1,36 @@
+img {
+    border-radius:1px solid black;
+    width: 320px;
+    height: 200px
+}
+
+div.inicio {
+    margin-top:115px;
+    padding-left: 25px;
+    padding-right: 25px;
+    
+}
+
+a.list-group-item {
+    background-color: rgba(43, 42, 42, 0.6); 
+    border-radius: 8px 5px;
+    color: white;
+    list-style: none;
+}
+a.list-group-item:hover {
+    text-decoration: none;
+}
+
+
+h3 {
+    font-family: 'Mansalva', cursive;
+    font-size: 50px;
+}
+h3.text-center {
+    margin-top: 150px;
+}
+
+h5 {
+    font-family: 'Mansalva', cursive;
+    font-size: 35px;
+}
