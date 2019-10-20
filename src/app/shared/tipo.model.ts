@@ -14,18 +14,10 @@ export interface ModeloDeJogos {
 
 
 export interface Form {
-      name: string;
-      email: string;
-      mensg: string,
+      name: string,
+      email: string,
+      mensg: string
    
 }
 
-// export class ModeloEmail {
-   
-//    public name: string
-//    public version: number
-//    public description: string
-//    public main: any
-//    public dependencies: Array<any>
 
-// }

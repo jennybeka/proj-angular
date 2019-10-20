@@ -1,3 +1,17 @@
+Ola,
+
+Antes de rodar o prgrama, verifique se contem todas as extensões requisitadas para o angular funcionar corretamente.
+Como o (node_modules) ex.. Pode instalar na linha de comando >>>>npm install<<<<.
+
+Este programa para rodar com eficiencia, requer que o arquivo "dados-games.json", tambem seja executado e devidamente assistido para buscar as informações complementares.
+
+Qualquer dúvidas, entre em contato comigo atraves do email > >>>>>>>>>>>>>>> jennybekadutra@gmail.com
+
+
+Aproveite :D
+
+
+
 # App1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.

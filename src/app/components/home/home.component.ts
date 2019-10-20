@@ -30,7 +30,7 @@ export class HomeComponent implements OnInit {
   public pesquisa = new FormGroup({ //formGroup para o formulario 
     videoGame: new FormControl(), // formControl para cada elementos do formulario
     jogo: new FormControl(),
-    categoria: new FormControl() // NÃO CONSIGO MAIS REMOVER O FORMGROUP
+    categoria: new FormControl()
 
   });
 
@@ -71,8 +71,8 @@ export class HomeComponent implements OnInit {
 
 
   //****************Esta parte de buscar por jogo, não consegui fazer com os metodos (find e filter).*************************
-  //*************Forma de acessar o array de objetos do JSON não encontrada.
-  //******************nomeJogo aparecia com erro pq o object não é encontrado!!! ***********************************
+  //*************Forma de acessar o array de objetos do JSON não encontrada COM FILTER******************
+
 
   public qualJogo(parametro: string): void {
     this.videoGame = this.consoleService.pesquisaConsole('')
