@@ -33,17 +33,17 @@
     <!-- area mensagem  -->
     <div class="col-md-4">
       <div class="container form">
-        <form [formGroup]="form" class="send"  method="post" name="contact" action ="https://formspree.io/xarkebvm">
+        <form [formGroup]="Form" class="send"  method="post" name="contact" action ="https://formspree.io/xarkebvm">
           <div class="form-group">
           <h2>Enviar uma mensagem...</h2>
-          <label for="fname">Nome</label>
-          <input type="text" class="form-control" formControlName="fname" name="name" placeholder="Seu nome..">
+          <label for="name">Nome</label>
+          <input type="text" class="form-control" formControlName="name" name="name" placeholder="Seu nome..">
 
           <label for="email">Email</label>
-          <input type="email" class="form-control" formControlName="lname" name="_replyto" placeholder="seu@email.com">
+          <input type="email" class="form-control" formControlName="email" name="email" placeholder="seu@email.com">
 
           <label for="subject">Mensagem</label>
-          <textarea id="subject" class="form-control" formControlName="mensg" name="message" placeholder="Escreva sua mensagem.." style="height:200px"></textarea>
+          <textarea id="Body" class="form-control" formControlName="mensg" name="mensg" placeholder="Escreva sua mensagem.." style="height:200px"></textarea>
 
           <input type="submit" (click)="onSubmit()" value="Enviar">
         </div>

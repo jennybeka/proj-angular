@@ -13,6 +13,12 @@ export interface ModeloDeJogos {
 }
 
 
+export interface Form {
+      name: string;
+      email: string;
+      mensg: string,
+   
+}
 
 // export class ModeloEmail {
    
